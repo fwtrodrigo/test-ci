@@ -10,6 +10,6 @@ func Soma(a int, b int) int {
 	return a + b
 }
 
-func Soma(a int, b int) int {
+func Subtracao(a int, b int) int {
 	return a - b
 }
